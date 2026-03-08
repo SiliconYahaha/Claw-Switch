@@ -1,7 +1,6 @@
 # OpenClaw Switch
 
 
-[Uploading image.png.html…]()
 
 <br/>
 

@@ -1,0 +1,5 @@
+{
+  "name": "OpenClaw Switch",
+  "description": "Auto model router for OpenClaw. Send a task, the lobster picks the right model.",
+  "requestFramePermissions": []
+}

@@ -1,8 +1,7 @@
 # OpenClaw Switch
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SiliconYahaha/openclaw-switch/main/public/hero.png" alt="OpenClaw Switch Hero" width="800" />
-</div>
+
+[Uploading image.png.html…]()
 
 <br/>
 
